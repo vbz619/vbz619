@@ -1,6 +1,6 @@
 
 
-# Hey there! I'm Vaibhav
+<h1 align="center">Hi , I'm Vaibhav Mashidkar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 I am a DevOps Engineer with a passion for automating everything in sight and a love for all things cloud. When I'm not busy making infrastructure dance to my commands, you can find me experimenting with new technologies and open-source projects.
 
