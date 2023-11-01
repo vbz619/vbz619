@@ -14,7 +14,7 @@ I am a DevOps Engineer with a passion for automating everything in sight and a l
 - Linux: It's my operating system of choice.
 
 ## Experience
-- Work with SRV Media Pvt Ltd as a DevOps Engineer
+- Worked with SRV Media Pvt Ltd as a DevOps Engineer
 - Worked with Allegiance Consultancy Services Pvt Ltd as a system administrator.
 - Hands on experience in setting up CI/CD pipeline using Jenkins
 - Experience in configuring monitoring and logging tools like Prometheus and ELK stack
